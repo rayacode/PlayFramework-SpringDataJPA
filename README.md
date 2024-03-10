@@ -1,0 +1,1 @@
+PlayFramework with SpringDataJpa example
