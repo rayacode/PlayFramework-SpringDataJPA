@@ -10,7 +10,6 @@ scalaVersion := "2.13.13"
 libraryDependencies ++= Seq(
   guice,
   javaJpa,
-  "org.springframework.boot" % "spring-boot-starter-validation" % "3.2.3",
   "org.springframework" % "spring-context" % "6.1.4",
   "javax.validation" % "validation-api" % "2.0.1.Final",
   "jakarta.annotation" % "jakarta.annotation-api" % "2.1.1",
